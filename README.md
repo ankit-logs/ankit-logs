@@ -1,82 +1,95 @@
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   👋 Hi, I'm Ankit                                      ║
-║                                                          ║
-║   🤖 AI/ML Developer  •  ☁️ Cloud  •  ⚙️ DevOps        ║
-║                                                          ║
-║   Building things, breaking things, and learning        ║
-║   how to build them better.                             ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   █████╗ ███╗   ██╗██╗  ██╗██╗████████╗                    │
+│  ██╔══██╗████╗  ██║██║ ██╔╝██║╚══██╔══╝                    │
+│  ███████║██╔██╗ ██║█████╔╝ ██║   ██║                       │
+│  ██╔══██║██║╚██╗██║██╔═██╗ ██║   ██║                       │
+│  ██║  ██║██║ ╚████║██║  ██╗██║   ██║                       │
+│                                                              │
+│        DEVOPS  ×  CLOUD  ×  AUTOMATION  ×  AI              │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+
+                 ⚡ ANKIT'S ENGINEERING LAB
+┌─────────────────────────────────────────────────────────────┐
+│  ⚙️  TOOLBOX                                                │
+├────────┬────────┬────────┬────────┬────────┬────────┬───────┤
+│ 🐧     │ ☁️     │ 🐳     │ ☸️     │ 🏗️     │ 🔧     │ 🤖    │
+│ Linux  │ AWS    │ Docker │ K8s    │ Terra  │ Jenkins│ Ansible│
+└────────┴────────┴────────┴────────┴────────┴────────┴───────┘
+
+╭──────────────────────╮  ╭──────────────────────╮
+│  🤖 AI LAB           │  │  📈 TRADING ENGINE   │
+│                      │  │                      │
+│  Machine Learning    │  │  Binance Bot         │
+│  experiments         │  │  Automation          │
+│                      │  │                      │
+│  PYTHON • AI • ML    │  │  PYTHON • API        │
+╰──────────────────────╯  ╰──────────────────────╯
 
 
-🛠️ TOOLS & TECHNOLOGIES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+╭──────────────────────╮  ╭──────────────────────╮
+│  🧠 EMOTION AI       │  │  📋 LEAD ENGINE       │
+│                      │  │                      │
+│  Computer Vision     │  │  Lead Distribution   │
+│  & Classification    │  │  System              │
+│                      │  │                      │
+│  PYTHON • ML • CV    │  │  WEB • AUTOMATION    │
+╰──────────────────────╯  ╰──────────────────────╯
 
-🐧 Linux      ☁️ AWS        🐳 Docker       ☸️ Kubernetes
-🔧 Git        🐙 GitHub      🏗️ Terraform    ⚙️ Jenkins
-🤖 Ansible    🐍 Python      🧠 AI/ML        📦 CI/CD
+                 ┌─────────────────────────────┐
+                 │     ⚡ ACTIVITY MATRIX      │
+                 └─────────────────────────────┘
 
+       ░ ░ ░ ░ █ █ ░ ░ █ █ █ ░ ░ █ █
+       ░ █ █ ░ █ █ █ ░ █ █ ░ █ █ █ █
+       █ █ ░ ░ █ ░ █ █ █ █ █ ░ █ █ ░
+       ░ █ █ █ █ ░ ░ █ █ ░ █ █ █ █ █
+       █ ░ █ █ █ █ ░ █ █ █ █ ░ █ ░ █
 
-🔥 WHAT I'M WORKING ON
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                BUILD • SHIP • REPEAT
 
-🤖 AI & Machine Learning
-☁️ Cloud Infrastructure
-⚙️ Automation & DevOps
-📊 Building practical projects
+                  ANKIT
+       DEVOPS • CLOUD • AI • AUTOMATION
 
+                         ↓
 
-🚀 FEATURED PROJECTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              ┌─────────────────┐
+              │  SYSTEM STATUS  │
+              │                 │
+              │  ● BUILDING     │
+              │  ● LEARNING     │
+              │  ● AUTOMATING   │
+              └─────────────────┘
 
-🤖 AI
-   Artificial Intelligence experiments & projects
+                         ↓
 
-📈 Binance Trade Bot
-   Automated trading project
+                    ⚙ TOOLBOX
 
-😊 Emotion Detection
-   ML-based emotion recognition
+       Linux    AWS    Docker    Kubernetes
+       Git      GitHub Terraform Jenkins
+       Ansible  Python AI/ML
 
-📋 Lead Distribution
-   Lead management / distribution system
+                         ↓
 
+                 ⚡ PROJECT LAB
 
-📊 CONTRIBUTION GRAPH
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+       ┌─────────────┐  ┌─────────────┐
+       │ AI          │  │ TRADING BOT │
+       └─────────────┘  └─────────────┘
 
-             🟩 🟩 🟩 🟩 🟩 🟩 🟩
-          🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
-       🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
+       ┌─────────────┐  ┌─────────────┐
+       │ EMOTION AI  │  │ LEAD SYSTEM │
+       └─────────────┘  └─────────────┘
 
+                         ↓
 
-💡 CURRENTLY LEARNING
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                 ACTIVITY MATRIX
 
-☁️ Cloud & Infrastructure
-🐳 Containerization
-☸️ Kubernetes
-🤖 AI / ML
-🔄 CI/CD
+                 🟩 🟩 🟩 🟩
+              🟩 🟩 🟩 🟩 🟩
+           🟩 🟩 🟩 🟩 🟩 🟩
 
+                         ↓
 
-🤝 CONNECT WITH ME
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-LinkedIn  •  Instagram  •  GitHub
-
-<!--
-**ankit-logs/ankit-logs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+             ── CONNECT / BUILD ──
