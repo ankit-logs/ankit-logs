@@ -12,15 +12,33 @@
 
 ---
 
-### About
+### `~/about`
 
-DevOps engineer based in India, working across **cloud infrastructure, CI/CD, and automation**, with a side interest in **applied AI and algorithmic trading systems**. I like turning repetitive manual work into reliable, repeatable pipelines.
+```console
+ankit@devops:~$ whoami
+Ankit Dubey | DevOps & Cloud Engineer
 
-**I build systems that deploy themselves, recover on their own, and need less babysitting.**
+ankit@devops:~$ cat mission.txt
+Build systems that deploy themselves, recover on their own,
+and need less babysitting.
+
+ankit@devops:~$ cat now.txt
+Learning   : AWS, Kubernetes
+Building   : CI/CD pipelines, Docker-based deployments
+Exploring  : MLOps, applied AI, algorithmic trading systems
+```
+
+| | |
+|---|---|
+| **Role** | DevOps / Cloud engineer |
+| **Based in** | Pune, India |
+| **Core focus** | Cloud infrastructure, CI/CD, automation |
+| **Side tracks** | Applied AI, trading systems |
+| **Open to** | DevOps and cloud roles, and collaboration on automation projects |
 
 ---
 
-### The pipeline I work with
+### `~/pipeline`
 
 <div align="center">
 
@@ -28,31 +46,11 @@ DevOps engineer based in India, working across **cloud infrastructure, CI/CD, an
 
 </div>
 
----
-
-### How I work
-
-| Principle | What it means in practice |
-|---|---|
-| **Automate the boring parts** | If I do it twice, it becomes a script or a pipeline |
-| **Ship small, ship often** | Small changes, fast feedback, easy rollbacks |
-| **Reproducible by default** | Containers and config in version control, no "works on my machine" |
-| **Observe everything** | If it can't be measured, it can't be improved |
+Every project I build follows this loop: code goes in, gets tested and packaged automatically, ships to the cloud, and what I observe feeds the next change.
 
 ---
 
-### Current focus
-
-| Area | Status |
-|---|---|
-| Cloud (AWS) | Learning and building hands-on labs |
-| Container orchestration (Kubernetes) | Learning |
-| CI/CD pipelines | Building and refining |
-| MLOps | Exploring |
-
----
-
-### Tech stack
+### `~/toolkit`
 
 <div align="center">
 
@@ -60,20 +58,59 @@ DevOps engineer based in India, working across **cloud infrastructure, CI/CD, an
 
 </div>
 
----
-
-### Selected projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Binance Trading Bot**](https://github.com/ankit-logs/REPO-NAME) | Automated crypto trading with strategy execution and market analysis via the Binance API | Python, Binance API |
-| [**Emotion Detection AI**](https://github.com/ankit-logs/REPO-NAME) | Real-time emotion recognition using computer vision and machine learning | Python, ML, OpenCV |
-| [**Lead Management System**](https://github.com/ankit-logs/REPO-NAME) | Automated lead assignment and monitoring | Python, Automation |
-| [**DevOps Automation**](https://github.com/ankit-logs/REPO-NAME) | Docker deployments, CI/CD pipelines, and infrastructure automation | Docker, GitHub Actions, AWS |
+| Layer | Tools |
+|---|---|
+| **Languages** | Python, Java |
+| **Containers & orchestration** | Docker, Kubernetes |
+| **Cloud** | AWS |
+| **CI/CD & version control** | GitHub Actions, Git, GitHub |
+| **Systems** | Linux |
+| **Data** | MongoDB |
 
 ---
 
-### Contribution snake
+### `~/projects`
+
+| Project | Domain | What it does | Stack |
+|---|---|---|---|
+| [**Binance Trading Bot**](https://github.com/ankit-logs/REPO-NAME) | Trading systems | Automated crypto trading with strategy execution and market analysis via the Binance API | Python, Binance API |
+| [**Emotion Detection AI**](https://github.com/ankit-logs/REPO-NAME) | Computer vision | Real-time emotion recognition using machine learning | Python, ML, OpenCV |
+| [**Lead Management System**](https://github.com/ankit-logs/REPO-NAME) | Business automation | Automated lead assignment and monitoring | Python, Automation |
+| [**DevOps Automation**](https://github.com/ankit-logs/REPO-NAME) | Infrastructure | Docker deployments, CI/CD pipelines, and infrastructure automation | Docker, GitHub Actions, AWS |
+
+---
+
+### `~/roadmap`
+
+- [x] Build automation-first projects across trading, AI and business workflows
+- [ ] Containerize every project with Docker
+- [ ] Add a GitHub Actions pipeline (test, build, deploy) to each repository
+- [ ] Deploy a production-style workload on AWS
+- [ ] Run a hands-on Kubernetes lab
+- [ ] Move one ML project into an MLOps workflow
+
+---
+
+### `~/principles`
+
+<details>
+<summary><b>How I approach engineering</b> (tap to expand)</summary>
+
+<br/>
+
+| Principle | In practice |
+|---|---|
+| **Automate the boring parts** | If I do it twice, it becomes a script or a pipeline |
+| **Ship small, ship often** | Small changes, fast feedback, easy rollbacks |
+| **Reproducible by default** | Containers and config in version control, no "works on my machine" |
+| **Observe everything** | If it can't be measured, it can't be improved |
+| **Document as I go** | Every repo gets a README someone else can run |
+
+</details>
+
+---
+
+### `~/activity`
 
 <div align="center">
 
@@ -82,13 +119,7 @@ DevOps engineer based in India, working across **cloud infrastructure, CI/CD, an
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/output/github-snake.svg">
 </picture>
 
-</div>
-
----
-
-### GitHub activity
-
-<div align="center">
+<br/>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ankit-logs&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/ankit-logs)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-logs&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/ankit-logs)
@@ -99,9 +130,12 @@ DevOps engineer based in India, working across **cloud infrastructure, CI/CD, an
 
 ---
 
+### `~/contact`
+
+Ask me about **Docker deployments, CI/CD automation, Binance API bots, or getting started with cloud and DevOps**. The fastest way to reach me is LinkedIn or email, using the badges at the top.
+
 <div align="center">
 
 *Automate everything. Learn continuously. Build fearlessly.*
-
 
 </div>
