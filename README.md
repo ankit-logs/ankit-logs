@@ -1,11 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:141E30,100:243B55&height=200&section=header&text=Ankit%20Dubey&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=DevOps%20%C2%B7%20Cloud%20%C2%B7%20Automation%20%C2%B7%20Applied%20AI&descSize=17&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=0:141E30,100:243B55&height=210&section=header&text=Ankit%20Dubey&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%C2%B7%20Cloud%20%C2%B7%20Automation%20%C2%B7%20Applied%20AI&descSize=17&descAlignY=58)
 
-**I build systems that deploy themselves, recover on their own, and need less babysitting.**
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Automating+deployments+end+to+end;Building+CI%2FCD+pipelines;Containerizing+everything+with+Docker;Learning+AWS+and+Kubernetes;Applying+AI+to+real+problems)](https://github.com/ankit-logs)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto: dubeyankit.it@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ankit-logs&label=Profile+views&color=243B55&style=flat-square)](https://github.com/ankit-logs)
 
 </div>
@@ -15,6 +15,18 @@
 ### About
 
 DevOps engineer based in India, working across **cloud infrastructure, CI/CD, and automation**, with a side interest in **applied AI and algorithmic trading systems**. I like turning repetitive manual work into reliable, repeatable pipelines.
+
+**I build systems that deploy themselves, recover on their own, and need less babysitting.**
+
+---
+
+### The pipeline I work with
+
+<div align="center">
+
+<img src="assets/pipeline.svg" alt="Animated delivery pipeline: Code, CI, Build, Deploy, Monitor" width="780"/>
+
+</div>
 
 ---
 
@@ -26,19 +38,6 @@ DevOps engineer based in India, working across **cloud infrastructure, CI/CD, an
 | **Ship small, ship often** | Small changes, fast feedback, easy rollbacks |
 | **Reproducible by default** | Containers and config in version control, no "works on my machine" |
 | **Observe everything** | If it can't be measured, it can't be improved |
-
----
-
-### Delivery pipeline I work with
-
-```mermaid
-flowchart LR
-    A[Code push] --> B[CI: test and lint]
-    B --> C[Build Docker image]
-    C --> D[Deploy to cloud]
-    D --> E[Monitor and alert]
-    E -.feedback.-> A
-```
 
 ---
 
@@ -55,10 +54,11 @@ flowchart LR
 
 ### Tech stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,docker,kubernetes,aws,mongodb,vscode&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,linux,git,github,githubactions,docker,kubernetes,aws,mongodb,vscode&perline=11)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -73,12 +73,27 @@ flowchart LR
 
 ---
 
+### Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankit-logs/ankit-logs/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ### GitHub activity
 
 <div align="center">
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ankit-logs&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/ankit-logs)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-logs&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/ankit-logs)
+
+[![Streak](https://streak-stats.demolab.com?user=ankit-logs&theme=tokyonight&hide_border=true)](https://github.com/ankit-logs)
 
 </div>
 
@@ -88,6 +103,6 @@ flowchart LR
 
 *Automate everything. Learn continuously. Build fearlessly.*
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=0:243B55,100:141E30&height=90&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=90&section=footer)
 
 </div>
