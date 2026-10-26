@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=0:141E30,100:243B55&height=210&section=header&text=Ankit%20Dubey&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%C2%B7%20Cloud%20%C2%B7%20Automation%20%C2%B7%20Applied%20AI&descSize=17&descAlignY=58)
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/assets/header.svg" alt="Ankit Dubey - DevOps, Cloud, Automation, Applied AI" width="800"/>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Automating+deployments+end+to+end;Building+CI%2FCD+pipelines;Containerizing+everything+with+Docker;Learning+AWS+and+Kubernetes;Applying+AI+to+real+problems)](https://github.com/ankit-logs)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto: dubeyankit.it@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ankit-logs&label=Profile+views&color=243B55&style=flat-square)](https://github.com/ankit-logs)
+<a href="https://www.linkedin.com/in/ankit-dubey-61aab4338"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dubeyankit.it@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ankit-logs"><img src="https://komarev.com/ghpvc/?username=ankit-logs&label=Profile+views&color=243B55&style=flat-square" alt="Profile views"/></a>
 
 </div>
 
@@ -24,7 +24,7 @@ DevOps engineer based in India, working across **cloud infrastructure, CI/CD, an
 
 <div align="center">
 
-<img src="assets/pipeline.svg" alt="Animated delivery pipeline: Code, CI, Build, Deploy, Monitor" width="780"/>
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/assets/pipeline.svg" alt="Animated delivery pipeline: Code, CI, Build, Deploy, Monitor" width="780"/>
 
 </div>
 
@@ -103,6 +103,5 @@ DevOps engineer based in India, working across **cloud infrastructure, CI/CD, an
 
 *Automate everything. Learn continuously. Build fearlessly.*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=90&section=footer)
 
 </div>
