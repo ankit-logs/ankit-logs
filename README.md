@@ -4,13 +4,14 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ankit-dubey-61aab4338"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:dubeyankit.it@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/ankit-logs"><img src="https://komarev.com/ghpvc/?username=ankit-logs&label=Profile+views&color=243B55&style=flat-square" alt="Profile views"/></a>
+<a href="https://www.linkedin.com/in/ankit-dubey-61aab4338"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dubeyankit.it@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=ankit-logs&label=Profile+views&color=243B55&style=flat-square" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
 ### `~/about`
 
@@ -28,13 +29,15 @@ Building   : CI/CD pipelines, Docker-based deployments
 Exploring  : MLOps, applied AI, algorithmic trading systems
 ```
 
-| | |
-|---|---|
-| **Role** | DevOps / Cloud engineer |
-| **Based in** | Pune, India |
-| **Core focus** | Cloud infrastructure, CI/CD, automation |
-| **Side tracks** | Applied AI, trading systems |
-| **Open to** | DevOps and cloud roles, and collaboration on automation projects |
+<div align="center">
+
+| Role | Based in | Core focus | Side tracks |
+|:---:|:---:|:---:|:---:|
+| DevOps / Cloud engineer | Pune, India | Cloud, CI/CD, automation | Applied AI, trading systems |
+
+**Open to:** DevOps and cloud roles &nbsp;·&nbsp; collaboration on automation projects
+
+</div>
 
 ---
 
@@ -44,50 +47,82 @@ Exploring  : MLOps, applied AI, algorithmic trading systems
 
 <img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/pipeline.svg" alt="Animated delivery pipeline: Code, CI, Build, Deploy, Monitor" width="780"/>
 
-</div>
+<sub>Code goes in, gets tested and packaged automatically, ships to the cloud, and what I observe feeds the next change.</sub>
 
-Every project I build follows this loop: code goes in, gets tested and packaged automatically, ships to the cloud, and what I observe feeds the next change.
+</div>
 
 ---
 
 ### `~/toolkit`
 
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=python,java,linux,git,github,githubactions,docker,kubernetes,aws,mongodb,vscode&perline=11)](https://skillicons.dev)
-
-</div>
-
 | Layer | Tools |
-|---|---|
-| **Languages** | Python, Java |
-| **Containers & orchestration** | Docker, Kubernetes |
-| **Cloud** | AWS |
-| **CI/CD & version control** | GitHub Actions, Git, GitHub |
-| **Systems** | Linux |
-| **Data** | MongoDB |
+|:---|:---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Containers & orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=FF9900) |
+| **CI/CD & version control** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Data** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
 
 ### `~/projects`
 
-| Project | Domain | What it does | Stack |
-|---|---|---|---|
-| [**Binance Trading Bot**](https://github.com/ankit-logs/REPO-NAME) | Trading systems | Automated crypto trading with strategy execution and market analysis via the Binance API | Python, Binance API |
-| [**Emotion Detection AI**](https://github.com/ankit-logs/REPO-NAME) | Computer vision | Real-time emotion recognition using machine learning | Python, ML, OpenCV |
-| [**Lead Management System**](https://github.com/ankit-logs/REPO-NAME) | Business automation | Automated lead assignment and monitoring | Python, Automation |
-| [**DevOps Automation**](https://github.com/ankit-logs/REPO-NAME) | Infrastructure | Docker deployments, CI/CD pipelines, and infrastructure automation | Docker, GitHub Actions, AWS |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Binance Trading Bot](https://github.com/ankit-logs/REPO-NAME)**
+<br/>`Trading systems`
+
+Automated crypto trading with strategy execution and market analysis via the Binance API.
+
+`Python` `Binance API`
+
+</td>
+<td width="50%" valign="top">
+
+**[Emotion Detection AI](https://github.com/ankit-logs/REPO-NAME)**
+<br/>`Computer vision`
+
+Real-time emotion recognition using machine learning.
+
+`Python` `ML` `OpenCV`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Lead Management System](https://github.com/ankit-logs/REPO-NAME)**
+<br/>`Business automation`
+
+Automated lead assignment and monitoring.
+
+`Python` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+**[DevOps Automation](https://github.com/ankit-logs/REPO-NAME)**
+<br/>`Infrastructure`
+
+Docker deployments, CI/CD pipelines, and infrastructure automation.
+
+`Docker` `GitHub Actions` `AWS`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### `~/roadmap`
 
-- [x] Build automation-first projects across trading, AI and business workflows
-- [ ] Containerize every project with Docker
-- [ ] Add a GitHub Actions pipeline (test, build, deploy) to each repository
-- [ ] Deploy a production-style workload on AWS
-- [ ] Run a hands-on Kubernetes lab
-- [ ] Move one ML project into an MLOps workflow
+| Now | Next | Later |
+|:---|:---|:---|
+| Containerize every project with Docker | Deploy a production-style workload on AWS | Move one ML project into an MLOps workflow |
+| Add GitHub Actions pipelines (test, build, deploy) to each repo | Run a hands-on Kubernetes lab | |
 
 ---
 
@@ -99,7 +134,7 @@ Every project I build follows this loop: code goes in, gets tested and packaged 
 <br/>
 
 | Principle | In practice |
-|---|---|
+|:---|:---|
 | **Automate the boring parts** | If I do it twice, it becomes a script or a pipeline |
 | **Ship small, ship often** | Small changes, fast feedback, easy rollbacks |
 | **Reproducible by default** | Containers and config in version control, no "works on my machine" |
@@ -128,7 +163,7 @@ Every project I build follows this loop: code goes in, gets tested and packaged 
 </tr>
 </table>
 
-[![Streak](https://streak-stats.demolab.com?user=ankit-logs&theme=tokyonight&hide_border=true)](https://github.com/ankit-logs)
+<a href="https://github.com/ankit-logs"><img src="https://streak-stats.demolab.com?user=ankit-logs&theme=tokyonight&hide_border=true" alt="GitHub streak"/></a>
 
 </div>
 
@@ -136,9 +171,16 @@ Every project I build follows this loop: code goes in, gets tested and packaged 
 
 ### `~/contact`
 
-Ask me about **Docker deployments, CI/CD automation, Binance API bots, or getting started with cloud and DevOps**. The fastest way to reach me is LinkedIn or email, using the badges at the top.
-
 <div align="center">
+
+Ask me about **Docker deployments · CI/CD automation · Binance API bots · getting started with cloud and DevOps**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ankit-dubey-61aab4338"><img src="https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dubeyankit.it@gmail.com"><img src="https://img.shields.io/badge/Email-dubeyankit.it%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
 
 *Automate everything. Learn continuously. Build fearlessly.*
 
