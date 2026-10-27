@@ -13,21 +13,13 @@
 
 <br/>
 
-### `~/about`
+### About Me
 
-```console
-ankit@devops:~$ whoami
-Ankit Dubey | DevOps & Cloud Engineer
+I'm a DevOps and cloud engineer based in Pune, India, focused on **cloud infrastructure, CI/CD and automation**. I like turning repetitive manual work into reliable, repeatable pipelines, and I build systems that deploy themselves, recover on their own, and need less babysitting. Alongside DevOps, I work on applied AI and algorithmic trading systems.
 
-ankit@devops:~$ cat mission.txt
-Build systems that deploy themselves, recover on their own,
-and need less babysitting.
-
-ankit@devops:~$ cat now.txt
-Learning   : AWS, Kubernetes
-Building   : CI/CD pipelines, Docker-based deployments
-Exploring  : MLOps, applied AI, algorithmic trading systems
-```
+- **Learning:** AWS, Kubernetes
+- **Building:** CI/CD pipelines, Docker-based deployments
+- **Exploring:** MLOps, applied AI, algorithmic trading systems
 
 <div align="center">
 
@@ -41,7 +33,7 @@ Exploring  : MLOps, applied AI, algorithmic trading systems
 
 ---
 
-### `~/pipeline`
+### How I Ship
 
 <div align="center">
 
@@ -53,20 +45,26 @@ Exploring  : MLOps, applied AI, algorithmic trading systems
 
 ---
 
-### `~/toolkit`
+### Toolkit
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=python,java,linux,git,github,githubactions,docker,kubernetes,aws,mongodb,vscode&perline=11)](https://skillicons.dev)
+
+</div>
 
 | Layer | Tools |
-|:---|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Containers & orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=FF9900) |
-| **CI/CD & version control** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Data** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+|---|---|
+| **Languages** | Python, Java |
+| **Containers & orchestration** | Docker, Kubernetes |
+| **Cloud** | AWS |
+| **CI/CD & version control** | GitHub Actions, Git, GitHub |
+| **Systems** | Linux |
+| **Data** | MongoDB |
 
 ---
 
-### `~/projects`
+### Projects
 
 <table>
 <tr>
@@ -117,7 +115,7 @@ Docker deployments, CI/CD pipelines, and infrastructure automation.
 
 ---
 
-### `~/roadmap`
+### Roadmap
 
 | Now | Next | Later |
 |:---|:---|:---|
@@ -126,7 +124,7 @@ Docker deployments, CI/CD pipelines, and infrastructure automation.
 
 ---
 
-### `~/principles`
+### Engineering Principles
 
 <details>
 <summary><b>How I approach engineering</b> (tap to expand)</summary>
@@ -145,7 +143,7 @@ Docker deployments, CI/CD pipelines, and infrastructure automation.
 
 ---
 
-### `~/activity`
+### GitHub Activity
 
 <div align="center">
 
@@ -169,7 +167,7 @@ Docker deployments, CI/CD pipelines, and infrastructure automation.
 
 ---
 
-### `~/contact`
+### Get in Touch
 
 <div align="center">
 
