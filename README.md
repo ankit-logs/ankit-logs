@@ -121,8 +121,12 @@ Every project I build follows this loop: code goes in, gets tested and packaged 
 
 <br/>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ankit-logs&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/ankit-logs)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-logs&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/ankit-logs)
+<table>
+<tr>
+<td valign="top"><a href="https://github.com/ankit-logs"><img src="https://github-readme-stats.vercel.app/api?username=ankit-logs&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/></a></td>
+<td valign="top"><a href="https://github.com/ankit-logs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-logs&layout=compact&hide_border=true&theme=tokyonight&card_width=320" alt="Top languages"/></a></td>
+</tr>
+</table>
 
 [![Streak](https://streak-stats.demolab.com?user=ankit-logs&theme=tokyonight&hide_border=true)](https://github.com/ankit-logs)
 
