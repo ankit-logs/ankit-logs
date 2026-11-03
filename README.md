@@ -9,7 +9,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=ankit-logs&label=Profile+views&color=243B55&style=flat-square" alt="Profile views"/>
 
-<sub><a href="#about-me">About</a> &nbsp;·&nbsp; <a href="#how-i-ship">How I Ship</a> &nbsp;·&nbsp; <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp; <a href="#projects">Projects</a> &nbsp;·&nbsp; <a href="#roadmap">Roadmap</a> &nbsp;·&nbsp; <a href="#get-in-touch">Contact</a></sub>
+<a href="#about-me"><img src="https://img.shields.io/badge/About-1f3a5f?style=flat-square" alt="About"/></a>
+<a href="#how-i-ship"><img src="https://img.shields.io/badge/How%20I%20Ship-1f3a5f?style=flat-square" alt="How I Ship"/></a>
+<a href="#toolkit"><img src="https://img.shields.io/badge/Toolkit-1f3a5f?style=flat-square" alt="Toolkit"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-1f3a5f?style=flat-square" alt="Projects"/></a>
+<a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-1f3a5f?style=flat-square" alt="Roadmap"/></a>
+<a href="#get-in-touch"><img src="https://img.shields.io/badge/Contact-1f3a5f?style=flat-square" alt="Contact"/></a>
 
 </div>
 
