@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/header.svg" alt="Ankit Dubey - DevOps, Cloud, Automation, Applied AI" width="800"/>
@@ -10,19 +9,21 @@
 
 <img src="https://komarev.com/ghpvc/?username=ankit-logs&label=Profile+views&color=243B55&style=flat-square" alt="Profile views"/>
 
+<sub><a href="#about-me">About</a> &nbsp;·&nbsp; <a href="#how-i-ship">How I Ship</a> &nbsp;·&nbsp; <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp; <a href="#projects">Projects</a> &nbsp;·&nbsp; <a href="#roadmap">Roadmap</a> &nbsp;·&nbsp; <a href="#get-in-touch">Contact</a></sub>
+
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/divider.svg" width="100%" height="6" alt=""/>
 
 ### About Me
 
 I'm a DevOps and cloud engineer based in Pune, India, focused on **cloud infrastructure, CI/CD and automation**. I like turning repetitive manual work into reliable, repeatable pipelines, and I build systems that deploy themselves, recover on their own, and need less babysitting. Alongside DevOps, I work on applied AI and algorithmic trading systems.
 
-- **Learning:** AWS, Kubernetes
-- **Building:** CI/CD pipelines, Docker-based deployments
-- **Exploring:** MLOps, applied AI, algorithmic trading systems
-
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/focus.svg" alt="Current focus: AWS, Kubernetes, CI/CD, MLOps" width="800"/>
+
+<br/>
 
 | Role | Based in | Core focus | Side tracks |
 |:---:|:---:|:---:|:---:|
@@ -32,7 +33,7 @@ I'm a DevOps and cloud engineer based in Pune, India, focused on **cloud infrast
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/divider.svg" width="100%" height="6" alt=""/>
 
 ### How I Ship
 
@@ -42,9 +43,13 @@ I'm a DevOps and cloud engineer based in Pune, India, focused on **cloud infrast
 
 <sub>Code goes in, gets tested and packaged automatically, ships to the cloud, and what I observe feeds the next change.</sub>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/terminal.svg" alt="Animated terminal showing a push, tests, image build, deploy and monitoring" width="780"/>
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/divider.svg" width="100%" height="6" alt=""/>
 
 ### Toolkit
 
@@ -63,7 +68,7 @@ I'm a DevOps and cloud engineer based in Pune, India, focused on **cloud infrast
 | **Systems** | Linux |
 | **Data** | MongoDB |
 
----
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/divider.svg" width="100%" height="6" alt=""/>
 
 ### Projects
 
@@ -114,7 +119,7 @@ Docker deployments, CI/CD pipelines, and infrastructure automation.
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/divider.svg" width="100%" height="6" alt=""/>
 
 ### Roadmap
 
@@ -123,7 +128,7 @@ Docker deployments, CI/CD pipelines, and infrastructure automation.
 | Containerize every project with Docker | Deploy a production-style workload on AWS | Move one ML project into an MLOps workflow |
 | Add GitHub Actions pipelines (test, build, deploy) to each repo | Run a hands-on Kubernetes lab | |
 
----
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/divider.svg" width="100%" height="6" alt=""/>
 
 ### Engineering Principles
 
@@ -142,7 +147,7 @@ Docker deployments, CI/CD pipelines, and infrastructure automation.
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/divider.svg" width="100%" height="6" alt=""/>
 
 ### GitHub Activity
 
@@ -157,16 +162,14 @@ Docker deployments, CI/CD pipelines, and infrastructure automation.
 
 <table>
 <tr>
-<td valign="top"><a href="https://github.com/ankit-logs"><img src="https://github-readme-stats.vercel.app/api?username=ankit-logs&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/></a></td>
-<td valign="top"><a href="https://github.com/ankit-logs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-logs&layout=compact&hide_border=true&theme=tokyonight&card_width=320" alt="Top languages"/></a></td>
+<td valign="middle"><img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/languages.svg" alt="Most used languages" width="380"/></td>
+<td valign="middle"><a href="https://github.com/ankit-logs"><img src="https://streak-stats.demolab.com?user=ankit-logs&theme=tokyonight&hide_border=true" alt="GitHub streak"/></a></td>
 </tr>
 </table>
 
-<a href="https://github.com/ankit-logs"><img src="https://streak-stats.demolab.com?user=ankit-logs&theme=tokyonight&hide_border=true" alt="GitHub streak"/></a>
-
 </div>
 
----
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/divider.svg" width="100%" height="6" alt=""/>
 
 ### Get in Touch
 
