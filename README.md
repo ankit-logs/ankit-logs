@@ -64,6 +64,8 @@ I'm a DevOps and cloud engineer based in Pune, India, focused on **cloud infrast
 
 </div>
 
+<div align="center">
+
 | Layer | Tools |
 |---|---|
 | **Languages** | Python, Java |
@@ -72,6 +74,8 @@ I'm a DevOps and cloud engineer based in Pune, India, focused on **cloud infrast
 | **CI/CD & version control** | GitHub Actions, Git, GitHub |
 | **Systems** | Linux |
 | **Data** | MongoDB |
+
+</div>
 
 <img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/divider.svg" width="100%" height="6" alt=""/>
 
