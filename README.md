@@ -81,52 +81,15 @@ I'm a DevOps and cloud engineer based in Pune, India, focused on **cloud infrast
 
 ### Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**[Binance Trading Bot](https://github.com/ankit-logs/REPO-NAME)**
-<br/>`Trading systems`
+<a href="https://github.com/ankit-logs/REPO-NAME"><img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/project-trading.svg" width="390" alt="Binance Trading Bot"/></a>
+<a href="https://github.com/ankit-logs/REPO-NAME"><img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/project-emotion.svg" width="390" alt="Emotion Detection AI"/></a>
+<br/>
+<a href="https://github.com/ankit-logs/REPO-NAME"><img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/project-leads.svg" width="390" alt="Lead Management System"/></a>
+<a href="https://github.com/ankit-logs/REPO-NAME"><img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/project-devops.svg" width="390" alt="DevOps Automation"/></a>
 
-Automated crypto trading with strategy execution and market analysis via the Binance API.
-
-`Python` `Binance API`
-
-</td>
-<td width="50%" valign="top">
-
-**[Emotion Detection AI](https://github.com/ankit-logs/REPO-NAME)**
-<br/>`Computer vision`
-
-Real-time emotion recognition using machine learning.
-
-`Python` `ML` `OpenCV`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Lead Management System](https://github.com/ankit-logs/REPO-NAME)**
-<br/>`Business automation`
-
-Automated lead assignment and monitoring.
-
-`Python` `Automation`
-
-</td>
-<td width="50%" valign="top">
-
-**[DevOps Automation](https://github.com/ankit-logs/REPO-NAME)**
-<br/>`Infrastructure`
-
-Docker deployments, CI/CD pipelines, and infrastructure automation.
-
-`Docker` `GitHub Actions` `AWS`
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/divider.svg" width="100%" height="6" alt=""/>
 
