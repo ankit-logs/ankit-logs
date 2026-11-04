@@ -83,6 +83,9 @@ I'm a DevOps and cloud engineer based in Pune, India, focused on **cloud infrast
 
 <div align="center">
 
+<a href="https://github.com/ankit-logs/docker-task-api"><img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/project-docker.svg" width="390" alt="Docker Task API"/></a>
+<a href="https://github.com/ankit-logs/aws-container-deploy"><img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/project-aws.svg" width="390" alt="AWS Container Deploy"/></a>
+<br/>
 <a href="https://github.com/ankit-logs/REPO-NAME"><img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/project-trading.svg" width="390" alt="Binance Trading Bot"/></a>
 <a href="https://github.com/ankit-logs/REPO-NAME"><img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/project-emotion.svg" width="390" alt="Emotion Detection AI"/></a>
 <br/>
@@ -95,29 +98,21 @@ I'm a DevOps and cloud engineer based in Pune, India, focused on **cloud infrast
 
 ### Roadmap
 
-| Now | Next | Later |
-|:---|:---|:---|
-| Containerize every project with Docker | Deploy a production-style workload on AWS | Move one ML project into an MLOps workflow |
-| Add GitHub Actions pipelines (test, build, deploy) to each repo | Run a hands-on Kubernetes lab | |
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/roadmap.svg" width="840" alt="Roadmap. Now: Docker and GitHub Actions. Next: AWS, infrastructure as code. Later: Kubernetes and MLOps."/>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/divider.svg" width="100%" height="6" alt=""/>
 
 ### Engineering Principles
 
-<details>
-<summary><b>How I approach engineering</b> (tap to expand)</summary>
+<div align="center">
 
-<br/>
+<img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/principles.svg" width="800" alt="Engineering principles: automate, ship small, reproducible, observable, secure, documented."/>
 
-| Principle | In practice |
-|:---|:---|
-| **Automate the boring parts** | If I do it twice, it becomes a script or a pipeline |
-| **Ship small, ship often** | Small changes, fast feedback, easy rollbacks |
-| **Reproducible by default** | Containers and config in version control, no "works on my machine" |
-| **Observe everything** | If it can't be measured, it can't be improved |
-| **Document as I go** | Every repo gets a README someone else can run |
-
-</details>
+</div>
 
 <img src="https://raw.githubusercontent.com/ankit-logs/ankit-logs/main/divider.svg" width="100%" height="6" alt=""/>
 
